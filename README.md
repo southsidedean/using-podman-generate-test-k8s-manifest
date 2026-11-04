@@ -1,3 +1,5 @@
+> **Archived November 2026.** This tutorial dates from 2023 and is no longer maintained. It won't work as written: the current `postgres:latest` image (version 18) refuses the data mount path used here. Atlassian also stopped selling Data Center to new customers on March 30, 2026, and [ends it on March 28, 2029](https://www.atlassian.com/licensing/data-center-end-of-life).
+
 # Using Podman to Generate and Test a Kubernetes YAML Manifest
 
 ### Tom Dean: [LinkedIn](https://www.linkedin.com/in/tomdeanjr/) / [GitHub](https://github.com/southsidedean)
